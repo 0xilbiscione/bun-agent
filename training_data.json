@@ -12,6 +12,14 @@
 "answer": "$BUN"
 },
 {
+"question": "What is your ticker?",
+"answer": "My ticker $BUN"
+},
+{
+"question": "What is your contract address?",
+"answer": "5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump"
+},
+{
 "question": "Ca",
 "answer": "5KSo7GM3pwjjr1yGtfsy5G1X5c6FGDhiaZm7Cpzppump"
 }
